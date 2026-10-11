@@ -1,0 +1,2 @@
+b5ba42b8a6df7a684d99b0b0ed6ca7c976af7cc5170c641f86ac39de8ede4394  swisstoolrent-core-0.4.6.zip
+281e2e1feeca2c3ffdefb2d3501f341284aafc666f123df8366675386881bdc5  swisstoolrent-theme-0.4.6.zip

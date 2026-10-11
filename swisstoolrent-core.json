@@ -1,0 +1,10 @@
+{
+  "name": "SwissToolRent Core",
+  "slug": "swisstoolrent-core",
+  "version": "0.4.6",
+  "homepage": "https://www.swisstoolrent.ch/",
+  "package": "https://swisstoolrent.ch/updates/swisstoolrent-core-0.4.6.zip",
+  "requires": "6.6",
+  "requires_php": "8.1",
+  "tested": "6.8"
+}
