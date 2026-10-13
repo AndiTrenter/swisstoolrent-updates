@@ -1,9 +1,9 @@
 {
   "name": "SwissToolRent Core",
   "slug": "swisstoolrent-core",
-  "version": "0.4.11",
+  "version": "0.4.15",
   "homepage": "https://www.swisstoolrent.ch/",
-  "package": "https://github.com/AndiTrenter/swisstoolrent-updates/releases/download/v0.4.11/swisstoolrent-core-0.4.11.zip",
+  "package": "https://github.com/AndiTrenter/swisstoolrent-updates/releases/download/v0.4.15/swisstoolrent-core-0.4.15.zip",
   "requires": "6.6",
   "requires_php": "8.1",
   "tested": "6.8"
