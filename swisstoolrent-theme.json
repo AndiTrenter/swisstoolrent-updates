@@ -1,9 +1,9 @@
 {
   "name": "SwissToolRent",
   "slug": "swisstoolrent",
-  "version": "0.4.27",
+  "version": "0.4.28",
   "homepage": "https://www.swisstoolrent.ch/",
-  "package": "https://github.com/AndiTrenter/swisstoolrent-updates/releases/download/v0.4.27/swisstoolrent-theme-0.4.27.zip",
+  "package": "https://github.com/AndiTrenter/swisstoolrent-updates/releases/download/v0.4.28/swisstoolrent-theme-0.4.28.zip",
   "requires": "6.6",
   "requires_php": "8.1",
   "tested": "6.8"
